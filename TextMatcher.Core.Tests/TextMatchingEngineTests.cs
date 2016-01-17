@@ -65,6 +65,32 @@ namespace TextMatcher.Core.Tests
             Assert.Equal<int>(51, result.Skip(2).First());
         }
 
+        [Fact(DisplayName = "It shoud return empty list when the query doesn't match with the text.")]
+        private void No_match()
+        {
+            var engine = CreateEngine();
+            var result = engine.GetIndexes(Text, "X").ToList();
+
+            Assert.NotNull(result);
+
+            Assert.Equal<int>(0, result.Count);
+            
+        }
+
+        [Fact(DisplayName = "It should return the index of all characters (not just a word)")]
+        private void Should_Be_Able_Find_Characters()    
+        {
+            var engine = CreateEngine();
+            var result = engine.GetIndexes(Text, "ll").ToList();
+
+            Assert.NotNull(result);
+            
+            Assert.Equal<int>(3, result.First());
+            Assert.Equal<int>(28, result.Skip(1).First());
+            Assert.Equal<int>(53, result.Skip(2).First());
+            Assert.Equal<int>(78, result.Skip(3).First());
+            Assert.Equal<int>(82, result.Skip(4).First());
+        }
 
         private ITextMatchingEngine CreateEngine()
         {
