@@ -21,3 +21,5 @@ D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\bin\Debug\Autofac.xml
 D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\bin\Debug\TextMatcher.Core.pdb
 D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\bin\Debug\Moq.dll
 D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\bin\Debug\Moq.xml
+D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\bin\Debug\TextMatcher.Wpf.Tests.dll.CodeAnalysisLog.xml
+D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\bin\Debug\TextMatcher.Wpf.Tests.dll.lastcodeanalysissucceeded
