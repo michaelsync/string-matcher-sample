@@ -15,3 +15,7 @@ D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\bin\Debug\xunit.core.xml
 D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\obj\Debug\TextMatcher.Wpf.Tests.csprojResolveAssemblyReference.cache
 D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\obj\Debug\TextMatcher.Wpf.Tests.dll
 D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\obj\Debug\TextMatcher.Wpf.Tests.pdb
+D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\bin\Debug\Autofac.dll
+D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\bin\Debug\TextMatcher.Core.dll
+D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\bin\Debug\Autofac.xml
+D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\bin\Debug\TextMatcher.Core.pdb

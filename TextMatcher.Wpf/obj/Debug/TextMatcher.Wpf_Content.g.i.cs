@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("customdictionary.xml")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("themes/metro/howtoapplytheme.txt")]
 
 
