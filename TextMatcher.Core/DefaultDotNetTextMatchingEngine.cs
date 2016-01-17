@@ -1,10 +1,23 @@
-﻿namespace TextMatcher.Core
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text.RegularExpressions;
+using EnsureThat;
+
+namespace TextMatcher.Core
 {
-    public class DefaultDotNetTextMatchingEngine : ITextMatchingEngine
+    public class DefaultDotNetTextMatchingEngine :TextMatchingEngineBase, ITextMatchingEngine
     {
-        public System.Collections.Generic.IEnumerable<int> Analyze(string text, string subText)
+        public IEnumerable<int> GetIndexes(string text, string query)
         {
-            throw new System.NotImplementedException();
+            ThrowExceptionIfNullOrEmpty(text, query);
+
+            var result = Enumerable.Range(0, text.Length - query.Length)
+                    .Where(i => query.Equals(text.Substring(i, query.Length), StringComparison.OrdinalIgnoreCase));
+
+            return IncreaseOne(result); 
         }
+
+        
     }
 }

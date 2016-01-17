@@ -1,0 +1,16 @@
+D:\git\string-matcher-sample\TextMatcher.Core.Tests\bin\Debug\xunit.execution.desktop.dll
+D:\git\string-matcher-sample\TextMatcher.Core.Tests\bin\Debug\TextMatcher.Core.Tests.dll
+D:\git\string-matcher-sample\TextMatcher.Core.Tests\bin\Debug\TextMatcher.Core.Tests.pdb
+D:\git\string-matcher-sample\TextMatcher.Core.Tests\bin\Debug\TextMatcher.Core.dll
+D:\git\string-matcher-sample\TextMatcher.Core.Tests\bin\Debug\xunit.abstractions.dll
+D:\git\string-matcher-sample\TextMatcher.Core.Tests\bin\Debug\xunit.assert.dll
+D:\git\string-matcher-sample\TextMatcher.Core.Tests\bin\Debug\xunit.core.dll
+D:\git\string-matcher-sample\TextMatcher.Core.Tests\bin\Debug\TextMatcher.Core.pdb
+D:\git\string-matcher-sample\TextMatcher.Core.Tests\bin\Debug\xunit.abstractions.xml
+D:\git\string-matcher-sample\TextMatcher.Core.Tests\bin\Debug\xunit.assert.pdb
+D:\git\string-matcher-sample\TextMatcher.Core.Tests\bin\Debug\xunit.assert.xml
+D:\git\string-matcher-sample\TextMatcher.Core.Tests\bin\Debug\xunit.core.pdb
+D:\git\string-matcher-sample\TextMatcher.Core.Tests\bin\Debug\xunit.core.xml
+D:\git\string-matcher-sample\TextMatcher.Core.Tests\obj\Debug\TextMatcher.Core.Tests.csprojResolveAssemblyReference.cache
+D:\git\string-matcher-sample\TextMatcher.Core.Tests\obj\Debug\TextMatcher.Core.Tests.dll
+D:\git\string-matcher-sample\TextMatcher.Core.Tests\obj\Debug\TextMatcher.Core.Tests.pdb

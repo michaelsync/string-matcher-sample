@@ -2,7 +2,7 @@
 {
     public class TextMatchingEngine : ITextMatchingEngine
     {
-        public System.Collections.Generic.IEnumerable<int> Analyze(string text, string subText)
+        public System.Collections.Generic.IEnumerable<int> GetIndexes(string text, string query)
         {
             throw new System.NotImplementedException();
         }

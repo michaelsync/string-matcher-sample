@@ -1,0 +1,17 @@
+D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\bin\Debug\xunit.abstractions.dll
+D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\bin\Debug\xunit.execution.desktop.dll
+D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\bin\Debug\xunit.runner.utility.desktop.dll
+D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\bin\Debug\TextMatcher.Wpf.Tests.dll
+D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\bin\Debug\TextMatcher.Wpf.Tests.pdb
+D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\bin\Debug\TextMatcher.Wpf.exe
+D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\bin\Debug\xunit.assert.dll
+D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\bin\Debug\xunit.core.dll
+D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\bin\Debug\TextMatcher.Wpf.pdb
+D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\bin\Debug\xunit.assert.pdb
+D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\bin\Debug\xunit.assert.xml
+D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\bin\Debug\xunit.core.pdb
+D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\bin\Debug\xunit.core.xml
+D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\obj\Debug\TextMatcher.Wpf.Tests.csprojResolveAssemblyReference.cache
+D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\obj\Debug\TextMatcher.Wpf.Tests.dll
+D:\git\string-matcher-sample\TextMatcher.Wpf.Tests\obj\Debug\TextMatcher.Wpf.Tests.pdb

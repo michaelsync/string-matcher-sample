@@ -13,7 +13,7 @@
     <AssemblyName>TextMatcher.Wpf.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <NuGetPackageImportStamp>57e9104b</NuGetPackageImportStamp>
+    <NuGetPackageImportStamp>49e3cc3a</NuGetPackageImportStamp>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
