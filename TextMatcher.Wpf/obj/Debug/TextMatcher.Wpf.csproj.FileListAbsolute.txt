@@ -12,3 +12,4 @@ D:\git\string-matcher-sample\TextMatcher.Wpf\obj\Debug\TextMatcher.Wpf.exe
 D:\git\string-matcher-sample\TextMatcher.Wpf\obj\Debug\TextMatcher.Wpf.pdb
 D:\git\string-matcher-sample\TextMatcher.Wpf\bin\Debug\TextMatcher.Wpf.exe.CodeAnalysisLog.xml
 D:\git\string-matcher-sample\TextMatcher.Wpf\bin\Debug\TextMatcher.Wpf.exe.lastcodeanalysissucceeded
+D:\git\string-matcher-sample\TextMatcher.Wpf\obj\Debug\TextMatcher.Wpf.csprojResolveAssemblyReference.cache

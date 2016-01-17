@@ -58,7 +58,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="DefaultDotNetTextMatchingEngineTests.cs" />
+    <Compile Include="RegularExpressionTextMatchingEngineTests.cs" />
     <Compile Include="TextMatchingEngineTests.cs" />
+    <Compile Include="TextMatchingEngineTestsBase.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TextMatcher.Core\TextMatcher.Core.csproj">

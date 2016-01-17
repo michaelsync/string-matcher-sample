@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text.RegularExpressions;
-using EnsureThat;
 
 namespace TextMatcher.Core
 {
@@ -17,6 +15,7 @@ namespace TextMatcher.Core
 
             return IncreaseOne(result); 
         }
+
 
         
     }
