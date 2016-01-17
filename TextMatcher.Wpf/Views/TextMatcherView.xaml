@@ -22,10 +22,16 @@
         <TextBlock Text="Text Matcher" Grid.Row="0" Grid.ColumnSpan="4" Margin="0 0 0 20" HorizontalAlignment="Center" Style="{StaticResource HeaderTextBlockStyle}" />
         <Label Grid.Row="1" Grid.Column="1" Margin="2">Text</Label>
         <TextBox Grid.Row="1" Grid.Column="2" Height="30" Width="140" HorizontalAlignment="Left" 
-                 Margin="2"></TextBox>
+                 Margin="2" Text="{Binding Text, UpdateSourceTrigger=PropertyChanged}"></TextBox>
         <Label Grid.Row="2" Grid.Column="1" Margin="2">Subtext</Label>
-        <TextBox Grid.Row="2" Grid.Column="2" Height="30" Width="140" HorizontalAlignment="Left" Margin="1"></TextBox>
-        <Button Grid.Row="3" Grid.Column="2" Margin="1 2 2 2" Height="30" Width="140" VerticalAlignment="Top" HorizontalAlignment="Left">Get Indexes</Button>
-        <Label Grid.Row="4" Grid.Column="1" Margin="2" Grid.ColumnSpan="2">Result:</Label>
+        <TextBox Grid.Row="2" Grid.Column="2" Height="30" Width="140" 
+                 HorizontalAlignment="Left" Margin="1"
+                 Text="{Binding Query,UpdateSourceTrigger=PropertyChanged}"></TextBox>
+        <Button Grid.Row="3" Grid.Column="2" Margin="1 2 2 2" Height="30" Width="140" 
+                VerticalAlignment="Top" HorizontalAlignment="Left"
+                IsEnabled="{Binding IsButtonEnabled}"
+                Command="{Binding GetIndexesCommand}">Get Indexes</Button>
+        <Label Grid.Row="4" Grid.Column="1" Margin="2" Grid.ColumnSpan="2"
+               Content="{Binding Result}"></Label>
     </Grid>
 </UserControl>
