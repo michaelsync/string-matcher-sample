@@ -2,8 +2,6 @@ D:\git\string-matcher-sample\TextMatcher.Core\bin\Debug\TextMatcher.Core.dll
 D:\git\string-matcher-sample\TextMatcher.Core\bin\Debug\TextMatcher.Core.pdb
 D:\git\string-matcher-sample\TextMatcher.Core\obj\Debug\TextMatcher.Core.dll
 D:\git\string-matcher-sample\TextMatcher.Core\obj\Debug\TextMatcher.Core.pdb
-D:\git\string-matcher-sample\TextMatcher.Core\bin\Debug\EnsureThat.dll
-D:\git\string-matcher-sample\TextMatcher.Core\bin\Debug\EnsureThat.xml
 D:\git\string-matcher-sample\TextMatcher.Core\bin\Debug\TextMatcher.Core.dll.CodeAnalysisLog.xml
 D:\git\string-matcher-sample\TextMatcher.Core\bin\Debug\TextMatcher.Core.dll.lastcodeanalysissucceeded
 D:\git\string-matcher-sample\TextMatcher.Core\obj\Debug\TextMatcher.Core.csprojResolveAssemblyReference.cache
