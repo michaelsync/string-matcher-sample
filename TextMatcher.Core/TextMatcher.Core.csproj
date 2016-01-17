@@ -45,14 +45,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DefaultDotNetTextMatchingEngine.cs" />
-    <Compile Include="Extensions.cs" />
     <Compile Include="Guard.cs" />
     <Compile Include="ITextMatchingEngine.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RegularExpressionTextMatchingEngine.cs" />
     <Compile Include="TextMatchingEngine.cs" />
-    <Compile Include="TextMatchingEngineBase.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
