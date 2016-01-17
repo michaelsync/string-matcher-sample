@@ -1,0 +1,1 @@
+D:\git\string-matcher-sample\TextMatcher.Wpf\bin\Debug\TextMatcher.Wpf.exe.config

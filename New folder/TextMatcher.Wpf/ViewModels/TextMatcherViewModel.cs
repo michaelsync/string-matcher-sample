@@ -4,9 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TextMatcher.Core.Tests
-{
-    public class Class1
-    {
+namespace TextMatcher.Wpf.ViewModels {
+    class TextMatcherViewModel {
     }
 }
