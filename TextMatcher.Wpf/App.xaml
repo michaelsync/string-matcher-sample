@@ -8,6 +8,21 @@
                 <ResourceDictionary Source="Themes/Metro/Metro.MSControls.Core.Implicit.xaml" />
                 <ResourceDictionary Source="Themes/Metro/Metro.MSControls.Toolkit.Implicit.xaml" />
             </ResourceDictionary.MergedDictionaries>
+
+            <SolidColorBrush x:Key="BackgroundKey" Color="#FFFFFF" />
+
+            <Style x:Key="HeaderTextBlockStyle" TargetType="TextBlock">
+                <Setter Property="FontSize" Value="22" />
+                <Setter Property="FontFamily" Value="Segoe UI" />
+                <Setter Property="Foreground" Value="#FF00AADE" />
+            </Style>
+
+            <Style x:Key="SubHeaderTextBlockStyle" TargetType="TextBlock">
+                <Setter Property="FontSize" Value="18" />
+                <Setter Property="FontFamily" Value="Segoe UI" />
+                <Setter Property="Foreground" Value="#FF00AADE" />
+            </Style>
+
         </ResourceDictionary>
     </Application.Resources>
 </Application>

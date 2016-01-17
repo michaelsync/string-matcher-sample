@@ -1,4 +1,5 @@
 ﻿using System.Windows.Controls;
+using TextMatcher.Wpf.ViewModels;
 
 namespace TextMatcher.Wpf.Views
 {
@@ -7,9 +8,10 @@ namespace TextMatcher.Wpf.Views
     /// </summary>
     public partial class TextMatcherView : UserControl
     {
-        public TextMatcherView()
+        public TextMatcherView(TextMatcherViewModel viewModel)
         {
             InitializeComponent();
+            this.DataContext = viewModel;
         }
     }
 }

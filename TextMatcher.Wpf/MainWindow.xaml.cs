@@ -17,8 +17,8 @@ namespace TextMatcher.Wpf
 
             var builder = new ContainerBuilder();
             builder.RegisterType<TextMatchingEngine>().As<ITextMatchingEngine>();
-            builder.RegisterInstance(new TextMatcherViewModel());
-            builder.RegisterInstance(new TextMatcherView());
+            builder.RegisterType<TextMatcherViewModel>();
+            builder.RegisterType<TextMatcherView>();
             var container = builder.Build();
 
             ContentControl.Content = container.Resolve<TextMatcherView>();
