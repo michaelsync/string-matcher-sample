@@ -10,11 +10,11 @@ none
 false
 CODE_ANALYSIS;DEBUG;TRACE
 D:\git\string-matcher-sample\TextMatcher.Wpf\App.xaml
-71465923927
+2-1519954645
 
 9559106954
-17-382787204
-MainWindow.xaml;Themes\Metro\Metro.MSControls.Core.Implicit.xaml;Themes\Metro\Metro.MSControls.Toolkit.Implicit.xaml;Themes\Metro\Styles.Shared.xaml;Themes\Metro\Styles.WPF.xaml;Themes\Metro\Theme.Colors.xaml;Views\TextMatcherView.xaml;
+14701133502
+MainWindow.xaml;Views\TextMatcherView.xaml;
 
 False
 

@@ -14,5 +14,3 @@ D:\git\string-matcher-sample\TextMatcher.Core.Tests\bin\Debug\xunit.core.xml
 D:\git\string-matcher-sample\TextMatcher.Core.Tests\obj\Debug\TextMatcher.Core.Tests.csprojResolveAssemblyReference.cache
 D:\git\string-matcher-sample\TextMatcher.Core.Tests\obj\Debug\TextMatcher.Core.Tests.dll
 D:\git\string-matcher-sample\TextMatcher.Core.Tests\obj\Debug\TextMatcher.Core.Tests.pdb
-D:\git\string-matcher-sample\TextMatcher.Core.Tests\bin\Debug\TextMatcher.Core.Tests.dll.CodeAnalysisLog.xml
-D:\git\string-matcher-sample\TextMatcher.Core.Tests\bin\Debug\TextMatcher.Core.Tests.dll.lastcodeanalysissucceeded

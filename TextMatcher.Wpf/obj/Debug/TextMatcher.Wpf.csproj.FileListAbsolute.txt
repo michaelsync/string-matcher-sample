@@ -19,12 +19,4 @@ D:\git\string-matcher-sample\TextMatcher.Wpf\bin\Debug\Autofac.dll
 D:\git\string-matcher-sample\TextMatcher.Wpf\bin\Debug\Autofac.xml
 D:\git\string-matcher-sample\TextMatcher.Wpf\bin\Debug\TextMatcher.Core.dll
 D:\git\string-matcher-sample\TextMatcher.Wpf\bin\Debug\TextMatcher.Core.pdb
-D:\git\string-matcher-sample\TextMatcher.Wpf\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
-D:\git\string-matcher-sample\TextMatcher.Wpf\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
-D:\git\string-matcher-sample\TextMatcher.Wpf\bin\Debug\WPFToolkit.dll
-D:\git\string-matcher-sample\TextMatcher.Wpf\obj\Debug\Themes\Metro\Metro.MSControls.Core.Implicit.baml
-D:\git\string-matcher-sample\TextMatcher.Wpf\obj\Debug\Themes\Metro\Metro.MSControls.Toolkit.Implicit.baml
-D:\git\string-matcher-sample\TextMatcher.Wpf\obj\Debug\Themes\Metro\Styles.Shared.baml
-D:\git\string-matcher-sample\TextMatcher.Wpf\obj\Debug\Themes\Metro\Styles.WPF.baml
-D:\git\string-matcher-sample\TextMatcher.Wpf\obj\Debug\Themes\Metro\Theme.Colors.baml
 D:\git\string-matcher-sample\TextMatcher.Wpf\obj\Debug\App.baml
