@@ -1,14 +1,21 @@
 ﻿using System.ComponentModel;
 using System.Globalization;
+using System.Linq;
 using System.Windows.Input;
+using TextMatcher.Core;
 
 namespace TextMatcher.Wpf.ViewModels
 {
     public class TextMatcherViewModel : INotifyPropertyChanged
     {
-        public TextMatcherViewModel()
+        public TextMatcherViewModel(ITextMatchingEngine textMatcherEngine)
         {
-
+            GetIndexesCommand = new DelegateCommand(() =>
+            {
+                Result = "Processing...";
+                var indexes = textMatcherEngine.GetIndexes(_text, _query).ToArray();
+                Result = indexes.Any() ? string.Join(",", indexes) : "<no matches>";
+            });
         }
 
         private string _text = string.Empty;
@@ -55,7 +62,7 @@ namespace TextMatcher.Wpf.ViewModels
             }
         }
 
-        public ICommand GetIndexesCommand { get; set; }
+        public ICommand GetIndexesCommand { get; private set; }
 
         public event PropertyChangedEventHandler PropertyChanged;
         protected void RaisePropertyChangedEvent(string propertyName)

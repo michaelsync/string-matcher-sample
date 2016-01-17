@@ -91,6 +91,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="DelegateCommand.cs" />
     <Compile Include="GlobalSuppressions.cs" />
     <Compile Include="ViewModels\TextMatcherViewModel.cs" />
     <Compile Include="Views\TextMatcherView.xaml.cs">
